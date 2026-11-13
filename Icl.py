@@ -1,4 +1,4 @@
-aant(input('nilai ujian pertama')) 
+nilai1 = int(input('nilai ujian pertama')) 
 nilai2 = int(input('nilai ujian kedua')) 
 nilai3 = int(input('nilai ujian ketiga'))
 kehadiran = int(input('rasio kehadiran ='))
@@ -16,5 +16,4 @@ print('lulus = ',kelulusan)
 
 
 syarat_alternatif = kehadiran >= 100 or nilairata_rata >= 75
-print('syaprint('lulus = ',kelulusan)
-')
+print('syrat alternatif = ', kelulusan)
